@@ -1,0 +1,54 @@
+{
+  "events": [
+
+
+    {
+      "name": "Smooth 1 - India vs England ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jw.html?src=https://me.webcric.com/frame1.htm"
+    },
+
+
+    {
+      "name": "Smooth 2 - India vs England  ",
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+    },
+
+{
+      "name": "Link 1 - India vs England ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jw.html?src=https://jago24.tiiny.io/sportstv.php?c=ptvpk"
+    },
+    
+    {
+      "name": "Link 2 - India vs England ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://rips.in/player.php?ch=1"
+    },
+  
+    {
+      "name": "Link 3 - India vs England  ",
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+    },
+
+    {
+      "name": "Link 4 - India vs England  ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://jago24.tiiny.io/sportstv.php?c=ptvpk"
+    },
+
+ {
+      "name": "Link 5 - India vs England  ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://live.mrgamingstream.net/Player/plyrr?url=https://cors-proxy.cooks.fyi/https://nee.moviesflixter.com/sports/m3u8.php/willowextra.m3u8"
+    },
+    
+ {
+      "name": "Link 6- India vs England  ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://sports.bdixtv24.net/sportstv.php?c=willowextra"
+    
+    }
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
