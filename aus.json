@@ -1,0 +1,54 @@
+{
+  "events": [
+
+
+    {
+      "name": "Smooth 1 - Australia vs Sri lanka",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/cric?id=TNT_2_GB"
+    },
+
+
+    {
+      "name": "Smooth 2 - Australia vs Sri lanka ",
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+    },
+
+{
+      "name": "Link 1 - Australia vs Sri lanka",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://me.webcric.com/frame1.htm"
+    },
+    
+    {
+      "name": "HD Link 2 - Australia vs Sri lanka",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/india-vs-england/1"
+    },
+  
+    {
+      "name": "HD Link 3 - Australia vs Sri lanka ",
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+    },
+
+    {
+      "name": "Full HD  4 - Australia vs Sri lanka ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/india-vs-england/2"
+    },
+
+ {
+      "name": "Full HD 5 - Australia vs Sri lanka ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/india-vs-england/3"
+    },
+    
+ {
+      "name": "4K Links 6- Australia vs Sri lanka ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/india-vs-england/4"
+    
+    }
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
