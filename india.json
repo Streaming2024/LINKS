@@ -13,7 +13,8 @@
       "link": "https://live.mrgamingstream.net/VIP/ads.html"
     },
 
-{
+
+    {
       "name": "Hindi Link 1 - India vs England ",
       "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://rips.in/player.php?ch=4"
     },
@@ -32,22 +33,23 @@
       "name": "ENG HD  4 - India vs England  ",
       "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/india-vs-england/1"
     },
-{
+
+    {
       "name": "ENG HD  5 - India vs England  ",
       "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/india-vs-england/2"
     },
- {
+
+    {
       "name": "Full HD 6 - India vs England  ",
       "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/india-vs-england/3"
     },
     
- {
+
+    {
       "name": "4K Links 7- India vs England  ",
       "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/india-vs-england/4"
     
     }
-
-
   ],
   "styles": {
     "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
