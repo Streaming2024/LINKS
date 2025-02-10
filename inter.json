@@ -1,0 +1,60 @@
+{
+  "events": [
+
+
+    
+    {
+      "name": "Smooth 1 - Inter Milan vs Fiorentina ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jw.html?src=https://player.hdctgroup.cn/detail.html?v=104&mid=4149702&type=1&pid=7"
+    },
+
+
+    
+    {
+      "name": "Smooth 2 - Inter Milan vs Fiorentina  ",
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+    },
+
+{
+      "name": "Link 1 - Inter Milan vs Fiorentina ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jw.html?src=https://embedme.top/embed/alpha/inter-milan-vs-fiorentina/1"
+    },
+    
+    {
+      "name": "Link 2 - Inter Milan vs Fiorentina ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/inter-milan-vs-fiorentina/2"
+    },
+
+
+    
+    {
+      "name": "Link 3 - Inter Milan vs Fiorentina  ",
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+    },
+
+
+
+    {
+      "name": "Link 4 - Inter Milan vs Fiorentina  ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/alpha/inter-milan-vs-fiorentina/3"
+    },
+
+ {
+      "name": "Link 5 - Inter Milan vs Fiorentina  ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/charlie/inter-vs-fiorentina-19155301/1"
+    },
+    
+ {
+      "name": "Link 6- Inter Milan vs Fiorentina  ",
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://embedme.top/embed/echo/js/inter-fiorentina-22825/1"
+    
+    }
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
