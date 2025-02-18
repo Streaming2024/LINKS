@@ -1,0 +1,23 @@
+ <!-- Schema.org markup for Google+ -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "name": "YoNo TV",
+            "url": "https://www.yonotvsports.com",
+            "description": "YoNo TV is channel that provide live streaming updates, highlights, schedules, and match previews for cricket, football and more. ",
+            "author": {
+                "@type": "Organization",
+                "name": "YoNo TV"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "YoNo TV"
+            },
+            "mainEntityOfPage": "https://www.yonotvsports.com",
+            "sameAs": [
+                "https://twitter.com/Yonotv",
+                "https://www.facebook.com/yonotv"
+            ]
+        }
+    </script>
