@@ -1,0 +1,51 @@
+{
+  "events": [
+
+
+    
+    {
+      "name": "Smooth 1 - Nepal vs UAE ",
+      "link": "https://cnd.mrgamingstream.net/page?src=https://www.youtube.com/embed/EYStphNzi7I"
+    },
+
+
+    
+    {
+      "name": "Smooth 2 - Nepal Vs UAE",
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+    },
+
+
+    
+    {
+      "name": "Full HD Link1 - Nepal vs UAE",
+      "link": "https://cnd.mrgamingstream.net/page?src=https://live.mrgamingstream.net/Player/yt.html?id=EYStphNzi7I"
+    },
+
+ {
+      "name": "Full HD Link2 - Nepal vs UAE",
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+    },
+    
+    {
+      "name": "HD Link 1 - Nepal Vs UAE",
+      "link": "https://cnd.mrgamingstream.net/page?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://live.mrgamingstream.net/Player/yt.html?id=EYStphNzi7I"
+    },
+
+
+
+    {
+      "name": "Link 4 - Nepal Vs UAE",
+      "link": "https://cnd.mrgamingstream.net/page?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://live.mrgamingstream.net/Player/yt.html?id=EYStphNzi7I"
+    
+    }
+
+
+
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 5px 0; padding: 5px; border: 2px solid #000; border-radius: 5px; cursor: pointer; transition: box-shadow 0.3s ease; background-color: red; color: white;",
+    "liveeHover": "box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);",
+    "liveeName": "flex: 2; text-align: center; color: white; font-weight: bold;"
+  }
+}
