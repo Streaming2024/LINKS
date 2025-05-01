@@ -1,24 +1,9 @@
 {
   "events": [
 
-
-    
-    {
-      "name": "English Link 1 -MI vs RR",
-      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/link.html?id=tsports"
-    },
-
-
-    {
-      "name": "English Link 2 -MI vs RR",
-      "link": "https://live.mrgamingstream.net/VIP/ads.html"
-    },
-
-
-    
      {
       "name": "Hindi Link 1-MI vs RR",
-      "link": "https://live.mrgamingstream.net/VIP/ads.html"
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/link.html?id=hindi"
    },
    
     {
@@ -28,13 +13,13 @@
     
     {
       "name": "Hindi Link 3- MI vs RR",
-      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/link.html?id=hindi"
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/link.html?id=hindi2"
     },
     
    
     {
       "name": "Hindi Link 4- MI vs RR ",
-      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/link.html?id=hindi2"
+      "link": "https://live.mrgamingstream.net/VIP/ads.html"
     },
     
     {
@@ -43,12 +28,12 @@
     },
  {
       "name": "English Link 1 -MI vs RR",
-      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://live.mrgamingstream.net/link.html?id=tsports"
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://live.mrgamingstream.net/link.html?id=tsports2"
     },
 
 {
       "name": "English Link 2 -MI vs RR ",
-      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://live.mrgamingstream.net/link.html?id=tsports2"
+      "link": "https://live.mrgamingstream.net/Player/page.html?src=https://live.mrgamingstream.net/Player/jwads.html?src=https://live.mrgamingstream.net/link.html?id=tsports"
     },
     
  {
